@@ -3,6 +3,8 @@
 
 This example demonstrates how to use the Twilio Voice SDK to make outbound calls from your node.js server.
 
+![image](https://github.com/Carlos0934/twilio-voice-example/assets/46497770/9e40ba83-4e7d-4180-a785-ac32d783ee1c)
+
 ## Setup
 
 To run this example, you'll need to gather your Twilio account credentials and configure them in a file named `.env`. To create the file, make a copy of `.env.example` and rename it to `.env`. Then, open the file and update the values for env variables with values from your [Twilio account](https://www.twilio.com/console).
